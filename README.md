@@ -1,6 +1,6 @@
 ### Object-oriented JavaScript
 
-  ## Shape factory
+  ## SplitEnds
   By George Edgar
 
-Checkout the shape factory [here](https://georgeedgar00.github.io/Split-Ends/) 
+Checkout split ends [here](https://georgeedgar00.github.io/SplitEnds/) 
